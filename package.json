@@ -1,0 +1,29 @@
+{
+  "name": "vk-captchasolver",
+  "version": "1.0.1",
+  "description": "vk.com captcha solver for node.js",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "vk",
+    "api",
+    "node.js",
+    "captcha",
+    "captcha solver"
+  ],
+  "author": "zoto_ff",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoto-ff/node-vk-captchasolver.git"
+  },
+  "homepage": "https://github.com/zoto-ff/node-vk-captchasolver#readme",
+  "bugs": {
+    "url": "https://github.com/zoto-ff/node-vk-captchasolver/issues"
+  },
+  "dependencies": {
+    "canvas": "^2.9.3",
+    "onnxjs": "^0.1.8"
+  },
+  "devDependencies": {}
+}

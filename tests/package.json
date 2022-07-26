@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "vk-captchasolver": "^1.0.1"
+  }
+}
